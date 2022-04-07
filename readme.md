@@ -1,6 +1,8 @@
 # Project Setup
+
 [![Production Workflow](https://github.com/mrpavsss/docker_flask/actions/workflows/prod.yml/badge.svg)](https://github.com/mrpavsss/docker_flask/actions/workflows/prod.yml)
 * [Production Deployment](https://pr253-product.herokuapp.com/)
+
 
 [![Development Workflow](https://github.com/mrpavsss/docker_flask/actions/workflows/dev.yml/badge.svg)](https://github.com/mrpavsss/docker_flask/actions/workflows/dev.yml)
 * [Developmental Deployment](https://pr253-development.herokuapp.com/)
@@ -47,5 +49,4 @@ app/dyno.
 * https://flask-user.readthedocs.io/en/latest/basic_app.html
 * https://hackersandslackers.com/flask-application-factory/
 * https://suryasankar.medium.com/a-basic-app-factory-pattern-for-production-ready-websites-using-flask-and-sqlalchemy-dbb891cdf69f
-
-recommitting everything again
+* https://refactoring.guru/replace-conditional-with-polymorphism
